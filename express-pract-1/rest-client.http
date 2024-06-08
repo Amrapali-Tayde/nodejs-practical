@@ -1,0 +1,10 @@
+POST https://silver-space-dollop-jj45wqwx47jgfqwj9-8000.app.github.dev/user
+
+Content-Type: application/json
+Content-Length: 0
+
+# Response: {"fname":"aaa","lname":"tayde","dob":"6789"}
+
+###
+GET https://silver-space-dollop-jj45wqwx47jgfqwj9-8000.app.github.dev/page1
+
